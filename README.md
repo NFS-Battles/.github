@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=NFS%20Battles&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=NFS%20Battles&fontSize=90&animation=twinkling&desc=Where%20seasonal%20ranked%20play%20for%20NFS%20games%20lives.)
